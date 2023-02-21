@@ -1,6 +1,8 @@
 # ipseekr
 
 A new Flutter project.
+This project is a basic ip finder with API consuming in Stream, and showed with StreamBuilder.
+Simple project with simple layout, but create for test API.
 
 ## Getting Started
 
